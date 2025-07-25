@@ -1,8 +1,7 @@
 # 🖥️ Projeto - Página de Login
 
-![Capa do Projeto](./caminho/da/imagem.png)
 
-Este é um projeto de **página de login** moderna, inspirada no estilo visual do Vertigo, feito para o sistema de **karaokê online**.
+Este é um projeto de **página de login** moderna.
 
 ---
 
@@ -19,7 +18,7 @@ Este é um projeto de **página de login** moderna, inspirada no estilo visual d
 
 | Tela de Login |
 |---------------|
-| ![Tela](./caminho/da/screenshot.png) |
+| ![Tela](https://cdn.discordapp.com/attachments/1391962815753097308/1398357685417541733/image.png?ex=68851194&is=6883c014&hm=4779fcc3ca9abc9c4b883ed36a4dee26f99ae2de9c42f308ff9f83aa609d316c&) |
 
 ---
 
@@ -30,4 +29,7 @@ Este é um projeto de **página de login** moderna, inspirada no estilo visual d
   - Campo de senha com botão para mostrar/ocultar
   - Link de “Esqueceu a senha?”
   - Link para criar uma nova conta
-- Layout dividido: área de login e lado com im
+- Layout dividido: área de login e lado com imagem de fundo animada
+- Visual responsivo e elegante
+
+---
